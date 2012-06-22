@@ -1,6 +1,6 @@
 Summary: Digital Mars D Compiler
 Name: dmd
-Version: 2.052
+Version: 2.059
 Release: 0
 License: Proprietary
 Group: Applications/Programming
